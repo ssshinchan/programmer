@@ -4,4 +4,4 @@
 # 相关链接
 [软考程序员介绍](https://blog.csdn.net/liyuanyue2017/article/details/82389703)
 
-[程序员备考经验](https://blog.csdn.net/liyuanyue2017/article/details/96509112)
+[程序员备考经验](https://blog.nowcoder.net/n/5518a4ac0bea4cb2b8c0888139fb7681)
